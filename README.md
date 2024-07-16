@@ -1,1 +1,1 @@
-
+This repository contains the Jupyter Notebook for the Global Hotel Data Analysis project, undertaken as part of an internship program. The project aims to analyze global hotel data to uncover insights and trends that can help improve business strategies and customer satisfaction in the hospitality industry.
