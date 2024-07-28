@@ -22,3 +22,9 @@ Objectives
 •To conduct geographical analysis of hotels.
 
 •To investigate restaurant chains and their distributions.
+
+
+Conclusion
+
+
+The Global Hotel Data Analysis project provides a detailed understanding of the hotel industry through data analysis. The findings can help stakeholders make informed decisions and improve their services.
